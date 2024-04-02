@@ -5,7 +5,7 @@
 
 This report has data points which can be translated to several things based on the company and its industry. For example:
 - Depending on the context, "issues" can represent "requests", "tasks", "cases", etc. Each "issue" has an "Open" or "Closed" status
-- Depending on the context, "money" can be represent "revenue", "AUM", etc.
+- Depending on the context, "money" can represent "revenue", "AUM", etc.
 - Depending on the context, there is a "Type" column with three "Methods", and the "Methods" can represent different products/services, divisions of the company, delivery method, and more. For example, for a retail company, "methods" can be changed to represent their eCommerce vs. physical store data. 
 
 I created the dummy data through Python. Dataset Features include:

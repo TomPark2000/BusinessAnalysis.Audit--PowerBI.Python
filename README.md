@@ -28,7 +28,7 @@ Below is the summary dashboard for **CLIENT COVERAGE**. It showcases key stats o
 
 Below is the summary dashboard for **ISSUES**. Similarly, It showcases key stats on the top, issues by month, issues by coverage/issue type, issues by country, and more. This is also all interactive.
 
-![](images/BI_issue_summ.png)
+![](images/BI_issue_sum.png)
 
 
 Below is the dashboard with a map to visualize the global **CLIENT COVERAGE**. There are filters at the top to filter the time frame and the specific country. The map has bubbles that vary in size, which depends on the client count for the country. If you select or hover over a specific country, there is a tooltip that appears with key KPIs.

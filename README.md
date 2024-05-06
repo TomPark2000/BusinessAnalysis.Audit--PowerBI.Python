@@ -1,7 +1,7 @@
 # Power BI Report - Analysis and Auditing 
 
 ## Project Overview
-**This interactive Power BI report is tailored to executives and provides insights to the processes of the company. This report is a one-stop shop with several dashboards, each with a different purpose including high level analyses, in depth analysis, and auditing for either overall client/customer coverage or the "issues" data.** I also designed this report to be user friendly so that anybody will be able to intuitively navigate it and find their desired insights. 
+**This interactive Power BI report is tailored to executives and provides insights and analytics to the processes of the company. This report is a one-stop shop with several dashboards, each with a different purpose including high level analyses, in depth analysis, and auditing for either overall client/customer coverage or the "issues" data.** I also designed this report to be user friendly so that anybody will be able to intuitively navigate it and find their desired insights. 
 
 This report has data points which can be translated to several things based on the company and its industry. For example:
 - Depending on the context, "issues" can represent "requests", "tasks", "cases", etc. Each "issue" has an "Open" or "Closed" status

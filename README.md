@@ -1,4 +1,4 @@
-# Power BI Report - Analysis and Auditing 
+# Power BI Report - Analytics and Auditing for Business Processes
 
 ## Project Overview
 **This interactive Power BI report is tailored to executives and provides insights and analytics to the processes of the company. This report is a one-stop shop with several dashboards, each with a different purpose including high level analyses, in depth analysis, and auditing for either overall client/customer coverage or the "issues" data.** I also designed this report to be user friendly so that anybody will be able to intuitively navigate it and find their desired insights. 

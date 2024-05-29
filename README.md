@@ -10,7 +10,7 @@ This report has data points which can be translated to several things based on t
 
 I created the dummy data through Python. Dataset Features include:
 - 1200 clients with a unique Client ID
-- 10,000 "issues" with a unique Issue ID: 35% of issues have an Open status and 65% having a have closed status
+- 10,000 "issues" with a unique Issue ID: 35% of issues have an Open status and 65% having a have Closed status
 - Countries with clients/issues: 50% in US, 20% in UK, 15% in Canada, and 15% distributed evenly amongst Germany, Grance, Australia, Japan, India, Brazil, and South Africa. There's also specific states/regions within each country.
 
 
